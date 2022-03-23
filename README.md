@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guidomagaldi
-- 👀 I’m interested in Wordpress and React
-- 🌱 I’m currently learning Headless Wordpress Theming
+- 👀 I’m interested in IOS Mobile
+- 🌱 I’m currently studying at KeepCoding Mobile Bootcamp
 - 📫 How to reach me: magaldiguido@gmail.com
 
 <!---
